@@ -54,6 +54,15 @@
   --blue-accent-700: #3e4396;
   --blue-accent-800: #2a2d64;
   --blue-accent-900: #151632;
+
+  --primary-main: var(--black-accent-100);
+  --secondary-main: var(--green-accent-500);
+
+  --neutral-main: var(--grey-500);
+  --neutral-dark: var(--grey-700);
+  --neutral-light: var(--grey-100);
+
+  --background: #fcfcfc;
 }
 
 .dark {
